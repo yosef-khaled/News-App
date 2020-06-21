@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="share_news">Share News</string>
+    <string name="written_by">Written by </string>
+    <string name="news_details">News Details</string>
+</resources>
